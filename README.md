@@ -1,1 +1,3 @@
 # Raconteur
+
+Interactive text engine.
